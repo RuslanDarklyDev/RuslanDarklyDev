@@ -34,8 +34,8 @@
 
 
 ## 📫 Как связаться со мной
-- Discord: <a href="https://discord.com/users/Твой_Discord_ID" target="_blank">1025658716386775040</a>
-- Telegram: <a href="https://t.me/твой_ник" target="_blank">Xx_Toxic_xX</a>
+- Discord: <a href="https://discord.com/users/1025658716386775040" target="_blank">*Кликабельно*</a>
+- Telegram: <a href="https://t.me/Xx_Toxic_xX" target="_blank">*Кликабельно*</a>
 - Email: ruslanasanbaev32@gmail.com
 
 ## Фотки
