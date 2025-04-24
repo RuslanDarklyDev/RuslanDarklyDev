@@ -28,9 +28,9 @@
 
 | Название | Описание | Ссылка |
 |----------|----------|--------|
-| 🎮Chill Run🎮 | Мини-раннер про мохнатого монстра, спасающегося от снежных шаров. | [GitHub](https://ruslan-richards.itch.io/chill-run) |
-| 🧗‍♂️Up Fall🏔️ | 3D платформер: доберись до летающего острова, преодолевая ловушки и пропасти. | [GitHub](https://ruslan-richards.itch.io/upfall) |
-| ✨Magic Scroll📜 | 2D платформер: помоги монстрику пройти испытания и добраться до древнего свитка. | [GitHub](https://ruslan-richards.itch.io/magic-scroll) |
+| 🎮Chill Run🎮 | Мини-раннер про мохнатого монстра, спасающегося от снежных шаров. | [Itch.io](https://ruslan-richards.itch.io/chill-run) |
+| 🧗‍♂️Up Fall🏔️ | 3D платформер: доберись до летающего острова, преодолевая ловушки и пропасти. | [Itch.io](https://ruslan-richards.itch.io/upfall) |
+| ✨Magic Scroll📜 | 2D платформер: помоги монстрику пройти испытания и добраться до древнего свитка. | [Itch.io](https://ruslan-richards.itch.io/magic-scroll) |
 
 
 ## 📫 Как связаться со мной
@@ -38,7 +38,7 @@
 - Telegram: <a href="https://t.me/Xx_Toxic_xX" target="_blank">*Кликабельно*</a>
 - Email: ruslanasanbaev32@gmail.com
 
-## Фотки
+## Скриншоты
 <p align="center">
   <img src="https://img.itch.zone/aW1nLzE5MzE5ODE4LmpwZw==/original/MgScIS.jpg" alt="Game 1" width="300" style="margin: 10px;">
   <img src="https://img.itch.zone/aW1nLzE4Mzg2NzA0LmpwZw==/original/SVHKnn.jpg" alt="Game 2" width="300" style="margin: 10px;">
